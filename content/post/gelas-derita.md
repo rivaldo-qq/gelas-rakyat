@@ -1,7 +1,6 @@
 ---
 title: Gelas Derita
 date: 2020-09-17T02:09:11.000+07:00
-draft: true
 
 ---
 dalam kopi pagi buruh, riuh bersemayam di dalamnya, membuat nya sadar ada pabrik yang sudah menganga , jauh sebelum fajar, dalam gelas penuh derita, tiap-tiap orang di sulap menjadi mesin, seketika setelah bersatu dengan bising.
