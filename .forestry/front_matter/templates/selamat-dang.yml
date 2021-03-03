@@ -9,4 +9,5 @@ fields:
   name: date
   label: date
 pages:
+- content/post/kopi-dan-susu-sama-sama-bikin-sakit-perut.md
 - content/selamat-datang.md
